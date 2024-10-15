@@ -7,7 +7,7 @@ I'm a Site Reliability Engineer at [Citizens Advice<img src="https://www.citizen
 
 ---
 
-I am a DevOps/Platform/SRE engineer passionate about automation and enabling development teams to do their best work. I have 2+ years experience in:
+I am a DevOps/Platform/SRE engineer passionate about automation and enabling development teams to do their best work. I have 3+ years experience in:
 
 ✨ Crafting robust CI/CD pipelines to automate testing and releases
 
